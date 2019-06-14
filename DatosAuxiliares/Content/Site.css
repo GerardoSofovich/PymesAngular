@@ -1,0 +1,24 @@
+﻿/* Bajar el contenido del body porque la fixed navbar ocupa el top de la pantalla*/
+body {
+    padding-top: 80px;
+}
+
+/*opacidad del modal usado en  Alert, Confirm y Pantalla */
+modal-backdrop {
+    opacity: 0.8;
+}
+
+form {
+    padding: 10px;
+    margin-bottom: 1em;
+}
+
+form button {
+    text-align: center;
+    margin: 1em;
+}
+
+.help-inline
+{
+    color:red;
+}
